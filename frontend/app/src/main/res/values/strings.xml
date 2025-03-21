@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmartBoardApp</string>
+    <string name="timer" translatable="false">%02d%02d%02d</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

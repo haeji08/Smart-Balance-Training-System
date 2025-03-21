@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.TrainStartFragment">
+
+    <TextView
+        android:id="@+id/tv_train_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="0.5dp"
+        android:layout_marginTop="366dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center_horizontal|top"
+        android:includeFontPadding="false"
+        android:text="훈련을 시작하기 위해 \n5초 동안 밸런스보드에 두 발로 서주세요"
+        android:textColor="@color/black"
+        android:textStyle="bold"
+        android:textSize="15.5sp" />
+
+</FrameLayout>

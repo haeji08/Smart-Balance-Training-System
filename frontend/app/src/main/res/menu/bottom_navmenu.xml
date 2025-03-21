@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/train"
+        android:title="훈련"
+        android:icon="@drawable/walk"/>
+    <item
+        android:id="@+id/my"
+        android:title="MY"
+        android:icon="@drawable/person"/>
+</menu>
