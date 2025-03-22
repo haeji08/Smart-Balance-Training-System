@@ -29,14 +29,32 @@ By analyzing key performance indicators from weekly training reports, users can 
 
 
 ### System Architecture
-<img src="https://i.postimg.cc/c1KNmfvd/2025-03-22-3-28-38.png" width="430" height="200"/>
+<img src="https://i.postimg.cc/c1KNmfvd/2025-03-22-3-28-38.png" width="460" height="211"/>
 
 
 ### Hardware
+<img src="https://i.postimg.cc/jSGLvRXj/2025-03-22-4-05-21.png" width="200" height="200"/> <img src="https://i.postimg.cc/bJP0CxTd/2025-03-22-4-05-38.png" width="300" height="200"/>
 
+- **Read sensors values**
+- **Calculate the center of gravity (CoG)**
+- **Provide LED feedback**
+- **Design Circuit**
 
 
 ### Software
+- **Real-time Balance Visualization and Feedback**: Balance maintenance time, weight shifting patterns, auditory feedback
+- **Training Statistics Report**: Total balance maintenance time, weight shifting patterns, left/right balance ratio, self-feedback
+- **Weekly Training Performance Analysis**
+
+
+| Training List | Train Start | While Training |
+| --- | --- | --- |
+| <p align="center"><img src="https://i.postimg.cc/90KrSVh1/2025-03-22-4-34-56.png" width="135" height="300"/></p> | <p align="center"><img src="https://i.postimg.cc/MZFMX0QR/2025-03-22-4-35-07.png" width="135" height="300"/></p> | <p align="center"><img src="https://i.postimg.cc/hPQJmJLY/2025-03-22-4-35-20.png" width="135" height="300"/></p> |
+
+| Training Statistics Report | Mypage |
+| --- | --- | 
+| <p align="center"><img src="https://i.postimg.cc/Sx0nfyVx/2025-03-22-4-35-49.png" width="120" height="260"/></p> | <p align="center"><img src="https://i.postimg.cc/W1Mh9Qf6/2025-03-22-4-36-10.png" width="120" height="260"/></p> | 
+
 
 
 ## Stacks
